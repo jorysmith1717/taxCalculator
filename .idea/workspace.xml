@@ -26,9 +26,12 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -541,12 +544,12 @@
       <updated>1460858764745</updated>
       <workItem from="1460858769923" duration="9000" />
       <workItem from="1460858828631" duration="7000" />
-      <workItem from="1460859750591" duration="256000" />
+      <workItem from="1460859750591" duration="734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272000" />
+    <option name="totallyTimeSpent" value="750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
@@ -593,9 +596,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
